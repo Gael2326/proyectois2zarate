@@ -1,3 +1,4 @@
+<img width="699" height="439" alt="images" src="https://github.com/user-attachments/assets/7975593d-7607-4a19-b729-60473c4044d9" />
 #Practica 2 2do Parcial IS Zarate
 
 ##Ejercicio de GITHUB 
